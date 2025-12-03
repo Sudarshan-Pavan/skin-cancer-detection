@@ -53,7 +53,7 @@ High accuracy on multi-class classification
 
 Architecture Summary:
 
-4 Convolutional blocks (16 → 32 → 64 → 128 filters)
+5 Convolutional blocks (16 → 32 → 64 → 128 → 256 filters)
 
 MaxPooling after each block
 
